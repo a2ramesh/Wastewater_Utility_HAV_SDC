@@ -3,4 +3,4 @@
 This repository contains the data and Python code to replicate the analyses conducted in the above paper. 
 
 ### Folders
-1. 
+1. `raw_data`: contains analyses 
