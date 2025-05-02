@@ -1,0 +1,19 @@
+num_shedding,shedding_period,sensitivity
+≥1,"SP1: 1 week before, 1 week after symptom onset",0.780487805
+≥2,"SP1: 1 week before, 1 week after symptom onset",1
+≥3,"SP1: 1 week before, 1 week after symptom onset",1
+≥4,"SP1: 1 week before, 1 week after symptom onset",1
+≥1,"SP2: 1 week before, 4 weeks after symptom onset",0.657894737
+≥2,"SP2: 1 week before, 4 weeks after symptom onset",0.838709677
+≥3,"SP2: 1 week before, 4 weeks after symptom onset",0.833333333
+≥4,"SP2: 1 week before, 4 weeks after symptom onset",0.916666667
+≥5,"SP2: 1 week before, 4 weeks after symptom onset",1
+≥1,"CDC: 2 weeks before, 1 week after symptom onset",0.692307692
+≥2,"CDC: 2 weeks before, 1 week after symptom onset",0.842105263
+≥3,"CDC: 2 weeks before, 1 week after symptom onset",0.833333333
+≥4,"CDC: 2 weeks before, 1 week after symptom onset",0.916666667
+≥1,"SP3: 2 weeks before, 4 weeks after symptom onset",0.627906977
+≥2,"SP3: 2 weeks before, 4 weeks after symptom onset",0.763157895
+≥3,"SP3: 2 weeks before, 4 weeks after symptom onset",0.777777778
+≥4,"SP3: 2 weeks before, 4 weeks after symptom onset",0.9
+≥5,"SP3: 2 weeks before, 4 weeks after symptom onset",1
